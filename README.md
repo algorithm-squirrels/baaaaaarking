@@ -52,5 +52,5 @@
 ***
  ✅ 강의 자료: https://www.youtube.com/@BaaaaaaaaaaaaaaaaaaaaarkingDog/videos <br>
  ✅ 커리큘럼: https://wild-witness-aa5.notion.site/42a8aa572d8f4ce7a4dee45d6616a4fb?v=d58aa88d50a345c7ae7c9aaba6fe4ce9  <br>
- ✅ 문제집(각 주차별 문제집은 표에 링크해둠): https://github.com/encrypted-def/basic-algo-lecture
+ ✅ 문제집(각 주차별 문제집은 표에 링크해둠): https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md
 
