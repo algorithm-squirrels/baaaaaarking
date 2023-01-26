@@ -8,7 +8,7 @@
 | 번호 |  내용 | 김지원 | 김현수 | 오예린 | 장다예 | 한현경 | 홍지우 |
 |---|---|---|---|---|---|---|---|
 |0x01| 기초 코드 작성 요령 I | [:santa:](https://jwkdevelop.tistory.com/44) | [:shipit:](https://kkokkoco.tistory.com/231) |    |    |    |    |
-|0x02| [기초 코드 작성 요령 II](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x02.md) |   |    |    |    |    |    |
+|0x02| [기초 코드 작성 요령 II](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x02.md) | [:santa:](https://jwkdevelop.tistory.com/44) |    |    |    |    |    |
 |0x03|[배열](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x03.md)|   |    |    |    |    |    |
 |0x04|[연결 리스트](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x04.md)|   |    |    |    |    |    |
 |0x05|[스택](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x05.md)|   |    |    |    |    |    |
