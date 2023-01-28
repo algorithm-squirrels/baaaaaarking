@@ -11,3 +11,20 @@ int main(void) {
 			cout << cnt << ' ';
 		}
 	}
+
+//다른 풀이
+//idea: a-z 알파벳의 빈도수를 담는 freq배열을 정의하고, string s에 알파벳이 등장할 때마다 배열의 원소의 수를 늘린다.
+#include <bits/stdc++.h>
+using namespace std;
+
+int freq[26];  //배열을 전역 변수로 설정하면 0값으로 초기화됨.
+int main(void){
+	ios::sync_with_stdio(0);
+	cin.tie(0);
+	string s;
+	cin >> s;
+	for(auto c : s)
+		freq[c - 'a']++;  //c가 'a'였다면 freq 배열의 첫번째, 'b'였다면 두번째 원소의 값을 1 증가한다.
+	for(int i=0; i<26;i++) 
+		cout << freq[i] << ' ';  //for문 돌면서 freq배열 출력.
+}
