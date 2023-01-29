@@ -2,12 +2,12 @@
 using namespace std;
 
 void insert(int idx, int num, int arr[], int &len) {
-    len++;
-    for (int i = idx; i < len; i++) {
-        int temp = arr[i];
-        arr[i] = num;
-        num = temp;
+    int i;
+    for (i = len; i > idx; i--) {
+        arr[i] = arr[i-1];
     }
+    arr[i] = num;
+    len++;
 }
 
 void erase(int idx, int arr[], int &len) {
