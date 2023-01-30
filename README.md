@@ -22,7 +22,7 @@
 |0x0D|[시뮬레이션](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0D.md)|   |   |    |    |    |    |    |    |
 |0x0E|[정렬 I](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0E.md)|   |   |    |    |    |    |    |    |
 |0x0F|[정렬 II](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0F.md)|   |   |    |    |    |    |    |    |
-|0x10|[다이나믹 프로그래밍](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x10.md)|   |   |    |    |    |    |    |    |
+|0x10|[다이나믹<br>프로그래밍](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x10.md)|   |   |    |    |    |    |    |    |
 |0x11|[그리디](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x11.md)|   |   |    |    |    |    |    |    |
 |0x12|[수학](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x12.md)|   |   |    |    |    |    |    |    |
 |0x13|[이분탐색](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x13.md)|   |   |    |    |    |    |    |    |
@@ -34,8 +34,8 @@
 |0x19|[트리](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x19.md)|   |   |    |    |    |    |    |    |
 |0x1A|[위상 정렬](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1A.md)|   |   |    |    |    |    |    |    |
 |0x1B|[최소 신장 트리](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1B.md)|   |   |    |    |    |    |    |    |
-|0x1C|[플로이드 알고리즘](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1C.md)|   |   |    |    |    |    |    |    |
-|0x1D|[다익스트라 알고리즘](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1D.md)|   |   |    |    |    |    |    |    |
+|0x1C|[플로이드 <br>알고리즘](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1C.md)|   |   |    |    |    |    |    |    |
+|0x1D|[다익스트라 <br>알고리즘](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1D.md)|   |   |    |    |    |    |    |    |
 |0x1E|[KMP](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1E.md)|   |   |    |    |    |    |    |    |
 |0x1F|[트라이](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1F.md)|   |   |    |    |    |    |    |    |
 
