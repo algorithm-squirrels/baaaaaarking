@@ -7,8 +7,8 @@
 
 | 번호 |  내용 | 김예린 | 김지원 | 김현수 | 나혜인 | 오예린 | 장다예 | 한현경 | 홍지우 |
 |---|---|---|---|---|---|---|---|---|---|
-|0x01| 기초 코드 작성 요령 I |    | [:santa:](https://jwkdevelop.tistory.com/44) | [:shipit:](https://kkokkoco.tistory.com/231) |     |[:whale:](https://shingy.tistory.com/17)    | [:hushed:](https://alwaysmoveforward.tistory.com/10) | [:penguin:](https://hkhan.tistory.com/27)    |[:cactus:](https://succinct-plier-27c.notion.site/0x01-I-fa368cbf11454d07b04b319407e25a24)    |
-|0x02| [기초 코드 작성 요령 II](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x02.md) |    | [:santa:](https://jwkdevelop.tistory.com/44) | [:shipit:](https://kkokkoco.tistory.com/232) |     | [:whale:](https://shingy.tistory.com/18) |    |[:penguin:](https://hkhan.tistory.com/28)    |    |
+|0x01| 기초 코드<br> 작성 요령 I |    | [:santa:](https://jwkdevelop.tistory.com/44) | [:shipit:](https://kkokkoco.tistory.com/231) |     |[:whale:](https://shingy.tistory.com/17)    | [:hushed:](https://alwaysmoveforward.tistory.com/10) | [:penguin:](https://hkhan.tistory.com/27)    |[:cactus:](https://succinct-plier-27c.notion.site/0x01-I-fa368cbf11454d07b04b319407e25a24)    |
+|0x02| [기초 코드<br> 작성 요령 II](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x02.md) |    | [:santa:](https://jwkdevelop.tistory.com/44) | [:shipit:](https://kkokkoco.tistory.com/232) |     | [:whale:](https://shingy.tistory.com/18) |    |[:penguin:](https://hkhan.tistory.com/28)    |    |
 |0x03|[배열](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x03.md)|    | [:santa:](https://jwkdevelop.tistory.com/45) |  [:shipit:](https://kkokkoco.tistory.com/235)|      | [:whale:](https://shingy.tistory.com/19) |    |[:penguin:](https://hkhan.tistory.com/30)|    |
 |0x04|[연결 리스트](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x04.md)|   |   |    |    |    |    |    |    |
 |0x05|[스택](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x05.md)|   |   |    |    |    |    |    |    |
