@@ -11,7 +11,7 @@
 |0x02| [기초 코드<br> 작성 요령 II](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x02.md) |    | [:santa:](https://jwkdevelop.tistory.com/44) | [:shipit:](https://kkokkoco.tistory.com/232) |     | [:whale:](https://shingy.tistory.com/18) |    |[:penguin:](https://hkhan.tistory.com/28)    |    |
 |0x03|[배열](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x03.md)|    | [:santa:](https://jwkdevelop.tistory.com/45) |  [:shipit:](https://kkokkoco.tistory.com/235)|      | [:whale:](https://shingy.tistory.com/19) |    |[:penguin:](https://hkhan.tistory.com/30)|    |
 |0x04|[연결 리스트](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x04.md)|   |   |  [:shipit:](https://kkokkoco.tistory.com/237)  |    | [:whale:](https://shingy.tistory.com/20)   |    |    |    |
-|0x05|[스택](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x05.md)|   |   |    |    |    |    |    |    |
+|0x05|[스택](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x05.md)|   |   |  [:shipit:](https://kkokkoco.tistory.com/238)  |    |    |    |    |    |
 |0x06|[큐](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x06.md)|   |   |    |    |    |    |    |    |
 |0x07|[덱](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x07.md)|   |   |    |    |    |    |    |    |
 |0x08|[스택의 활용](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x08.md)|   |   |    |    |    |    |    |    |
