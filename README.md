@@ -13,7 +13,7 @@
 |0x04|[연결 리스트](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x04.md)|    |   |   |  [:shipit:](https://kkokkoco.tistory.com/237)  |    | [:whale:](https://shingy.tistory.com/20)   |    |[:penguin:](https://hkhan.tistory.com/33)    |    |
 |0x05|[스택](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x05.md)|    |   |   |  [:shipit:](https://kkokkoco.tistory.com/238)  |    |    |    |[:penguin:](https://hkhan.tistory.com/34) |    |
 |0x06|[큐](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x06.md)|   |   |   |  [:shipit:](https://kkokkoco.tistory.com/240)  |    |    |    |    |    |
-|0x07|[덱](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x07.md)|   |   |   |    |    |    |    |    |    |
+|0x07|[덱](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x07.md)|   |   |   |  [:shipit:](https://kkokkoco.tistory.com/241)  |    |    |    |    |    |
 |0x08|[스택의 활용](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x08.md)|   |   |   |    |    |    |    |    |    |
 |0x09|[BFS](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x09.md)|   |   |   |    |    |    |    |    |    |
 |0x0A|DFS|   |   |   |    |    |    |    |    |    |
