@@ -14,7 +14,7 @@
 |0x05|[스택](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x05.md)|    |   | [:santa:](https://jwkdevelop.tistory.com/47)  |  [:shipit:](https://kkokkoco.tistory.com/238)  |   | [:whale:](https://shingy.tistory.com/21)   |    |[:penguin:](https://hkhan.tistory.com/34) |    |
 |0x06|[큐](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x06.md)|   |   | [:santa:](https://jwkdevelop.tistory.com/48)  |  [:shipit:](https://kkokkoco.tistory.com/240)  |   |   [:whale:](https://shingy.tistory.com/22) |    | [:penguin:](https://hkhan.tistory.com/35) |    |
 |0x07|[덱](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x07.md)|   |   | [:santa:](https://jwkdevelop.tistory.com/49)  |  [:shipit:](https://kkokkoco.tistory.com/241)  |    |  [:whale:](https://shingy.tistory.com/23)  |    | [:penguin:](https://hkhan.tistory.com/37)|    |
-|0x08|[스택의 활용](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x08.md)|   |   | [:santa:](https://jwkdevelop.tistory.com/50)  |    |    |    |    | [:penguin:](https://hkhan.tistory.com/39) |    |
+|0x08|[스택의 활용](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x08.md)|   |   | [:santa:](https://jwkdevelop.tistory.com/50)  |    | [:whale:](https://shingy.tistory.com/24)   |    |    | [:penguin:](https://hkhan.tistory.com/39) |    |
 |0x09|[BFS](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x09.md)|   |   |   |    |    |    |    |    |    |
 |0x0A|DFS|   |   |   |    |    |    |    |    |    |
 |0x0B|[재귀](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0B.md)|   |   |   |    |    |    |    |    |    |
