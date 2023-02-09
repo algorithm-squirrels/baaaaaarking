@@ -18,7 +18,7 @@
 |0x09|[BFS](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x09.md)|   |[:hamster:](https://gimyedev.tistory.com/19)| [:santa:](https://jwkdevelop.tistory.com/51)   |    | [:alien:](https://marble-trillium-cbf.notion.site/0x09-BFS-eb7ae905ef174ca89b0e44bb7bcef13b)   |  [:whale:](https://shingy.tistory.com/26)  |    | [:penguin:](https://hkhan.tistory.com/40) |    |
 |0x0A|DFS|   |   |   |    | [:alien:](https://marble-trillium-cbf.notion.site/0x0A-DFS-a900506a23d541aaaae577630be7d73b) | [:whale:](https://shingy.tistory.com/27)  |    | [:penguin:](https://hkhan.tistory.com/41) |    |
 |0x0B|[재귀](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0B.md)|   |   |   |    |    |    |    |    |    |
-|0x0C|[백트래킹](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0C.md)|   |   |   |    |    |    |    |    |    |
+|0x0C|[백트래킹](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0C.md)|   |   |   |    |    |    |    | [:penguin:](https://hkhan.tistory.com/43) |    |
 |0x0D|[시뮬레이션](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0D.md)|   |   |   |    |    |    |    |    |    |
 |0x0E|[정렬 I](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0E.md)|   |   |   |    |    |    |    |    |    |
 |0x0F|[정렬 II](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0F.md)|   |   |   |    |    |    |    |    |    |
