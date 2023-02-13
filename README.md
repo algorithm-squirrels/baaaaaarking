@@ -23,7 +23,7 @@
 |0x0E|[정렬 I](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0E.md)|   |   |   |    |    |    |    |    |    |
 |0x0F|[정렬 II](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0F.md)|   |   |   |    |    |    |    |    |    |
 |0x10|[다이나믹<br>프로그래밍](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x10.md)|   |   |   |    |    |    |    |    |    |
-|0x11|[그리디](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x11.md)|   |   |    |    |    |[:whale:](https://shingy.tistory.com/29)   |    |    |   |
+|0x11|[그리디](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x11.md)|   |   |   [:santa:](https://jwkdevelop.tistory.com/54) |    |    |[:whale:](https://shingy.tistory.com/29)   |    |    |   |
 |0x12|[수학](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x12.md)|   |   |    |    |    |    |    |    |   |
 |0x13|[이분탐색](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x13.md)|   |   |    |    |    |    |    |    |   |
 |0x14|[투 포인터](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x14.md)|   |   |    |    |    |    |    |    |   |
