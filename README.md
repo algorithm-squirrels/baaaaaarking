@@ -26,8 +26,8 @@
 |0x10|[다이나믹<br>프로그래밍](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x10.md)|   |   |   |    |    |    |    |    |    |
 |0x11|[그리디](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x11.md)|   |   |   [:santa:](https://jwkdevelop.tistory.com/54) |    |    |[:whale:](https://shingy.tistory.com/29)   |    |    |   |
 |0x12|[수학](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x12.md)|   |   |    |    |    |    |    |    |   |
-|0x13|[이분탐색](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x13.md)|   |   |   [:santa:](https://jwkdevelop.tistory.com/57)  |    |    |    |    |    |   |
-|0x14|[투 포인터](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x14.md)|   |   |  [:santa:](https://jwkdevelop.tistory.com/56)  |    |    |    |    |    |   |
+|0x13|[이분탐색](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x13.md)|   |   |   [:santa:](https://jwkdevelop.tistory.com/57)  |    |    |[:whale:](https://shingy.tistory.com/30)   |    |    |   |
+|0x14|[투 포인터](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x14.md)|   |   |  [:santa:](https://jwkdevelop.tistory.com/56)  |    |    |[:whale:](https://shingy.tistory.com/32)    |    |    |   |
 |0x15|[해시](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x15.md)|   |   |    |    |    |    |    |    |   |
 |0x16|[이진 검색 트리](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x16.md)|   |   |    |    |    |    |    |    |   |
 |0x17|[우선순위 큐](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x17.md)|   |   |    |    |    |    |    |    |   |
