@@ -40,33 +40,7 @@
 |0x1E|[KMP](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1E.md)|   |   |    |    |    |    |    |    |   |
 |0x1F|[트라이](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1F.md)|   |   |    |    |    |    |    |    |   |
 
-#### 2. 알고리즘 문제 풀이
-- BOJ 에서 그 주의 강의 내용을 응용할 수 있는 문제 풀기
-  - 주차별 링크해둔 문제집의 <b>가장 위에 있는 기본 문제</b>는 필수
-  - 이 외의 문제들은 자율적으로 선택해서 풀면 됨
-  - 푼 문제는 현재 레포지토리 내 본인 폴더에 올리기 
-- 잔디심기 챌린지(1일1문제풀기) 진행
 
-####  3. 온라인 스터디
-- 1주일에 한번, 온라인으로 모여서 어려웠던 내용을 질문하거나 특이한 풀이를 공유하는 시간을 갖기로 함
-
-
-***
- ✅ 강의 자료: https://www.youtube.com/@BaaaaaaaaaaaaaaaaaaaaarkingDog/videos <br>
- ✅ 커리큘럼: https://wild-witness-aa5.notion.site/42a8aa572d8f4ce7a4dee45d6616a4fb?v=d58aa88d50a345c7ae7c9aaba6fe4ce9  <br>
- ✅ 문제집(각 주차별 문제집은 표에 링크해둠): https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md
-   |    |    |    |    |    |   |
-|0x15|[해시](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x15.md)|   |   |    |    |    |    |    |    |   |
-|0x16|[이진 검색 트리](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x16.md)|   |   |    |    |    |    |    |    |   |
-|0x17|[우선순위 큐](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x17.md)|   |   |    |    |    |    |    |    |   |
-|0x18|[그래프](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x18.md)|   |   |    |    |    |    |    |    |   |
-|0x19|[트리](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x19.md)|   |   |    |    |    |    |    |    |   |
-|0x1A|[위상 정렬](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1A.md)|   |   |    |    |    |    |    |    |   |
-|0x1B|[최소 신장 트리](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1B.md)|   |   |    |    |    |    |    |    |   |
-|0x1C|[플로이드 <br>알고리즘](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1C.md)|   |   |    |    |    |    |    |    |   |
-|0x1D|[다익스트라 <br>알고리즘](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1D.md)|   |   |    |    |    |    |    |    |   |
-|0x1E|[KMP](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1E.md)|   |   |    |    |    |    |    |    |   |
-|0x1F|[트라이](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1F.md)|   |   |    |    |    |    |    |    |   |
 
 #### 2. 알고리즘 문제 풀이
 - BOJ 에서 그 주의 강의 내용을 응용할 수 있는 문제 풀기
