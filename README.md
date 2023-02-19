@@ -1,32 +1,5 @@
 ## 바킹독 C++ 알고리즘 강의 스터디
 
-### ✏️ 스터디 방식
- #### 1. 각자 내용 정리
-- 매일 짜여진 분량만큼 듣고 정리하기(notion, tistory, velog 등에)
-- 본인이 작성한 풀이나 강의 내용 정리한 것을 기록
-
-| 번호 |  내용 | 호성 |김예린 | 지원 | 현수 | 혜인 | 오예린 | 다예 | 현경 | 지우 |
-|---|---|---|---|---|---|---|---|---|---|---|
-|0x01| 기초 코드<br> 작성 요령 I |    |[:hamster:](https://gimyedev.tistory.com/20)| [:santa:](https://jwkdevelop.tistory.com/44) | [:shipit:](https://kkokkoco.tistory.com/231) |     |[:whale:](https://shingy.tistory.com/17)    | [:hushed:](https://alwaysmoveforward.tistory.com/10) | [:penguin:](https://hkhan.tistory.com/27)    |[:cactus:](https://succinct-plier-27c.notion.site/0x01-I-fa368cbf11454d07b04b319407e25a24)    |
-|0x02| [기초 코드<br> 작성 요령 II](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x02.md) |    |    | [:santa:](https://jwkdevelop.tistory.com/44) | [:shipit:](https://kkokkoco.tistory.com/232) |     | [:whale:](https://shingy.tistory.com/18) |    |[:penguin:](https://hkhan.tistory.com/28)    |    |
-|0x03|[배열](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x03.md)|    |    | [:santa:](https://jwkdevelop.tistory.com/45) |  [:shipit:](https://kkokkoco.tistory.com/235)|  [:alien:](https://marble-trillium-cbf.notion.site/0x03-8e90ed59e7cf43628cf4489cf5cfad28)    | [:whale:](https://shingy.tistory.com/19) |    |[:penguin:](https://hkhan.tistory.com/30)|[:cactus:](https://succinct-plier-27c.notion.site/0x03-ced7ccaa017e4b74b18a3a97849a41ff)|
-|0x04|[연결 리스트](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x04.md)|  |   |   [:santa:](https://jwkdevelop.tistory.com/46)   |  [:shipit:](https://kkokkoco.tistory.com/237)  |  | [:whale:](https://shingy.tistory.com/20)   |    |[:penguin:](https://hkhan.tistory.com/33)    |    |
-|0x05|[스택](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x05.md)|    |   | [:santa:](https://jwkdevelop.tistory.com/47)  |  [:shipit:](https://kkokkoco.tistory.com/238)  |   | [:whale:](https://shingy.tistory.com/21)   |    |[:penguin:](https://hkhan.tistory.com/34) |    |
-|0x06|[큐](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x06.md)|   |   | [:santa:](https://jwkdevelop.tistory.com/48)  |  [:shipit:](https://kkokkoco.tistory.com/240)  |   |   [:whale:](https://shingy.tistory.com/22) |    | [:penguin:](https://hkhan.tistory.com/35) |    |
-|0x07|[덱](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x07.md)|   |   | [:santa:](https://jwkdevelop.tistory.com/49)  |  [:shipit:](https://kkokkoco.tistory.com/241)  |    |  [:whale:](https://shingy.tistory.com/23)  |    | [:penguin:](https://hkhan.tistory.com/37)|    |
-|0x08|[스택의 활용](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x08.md)|   |   | [:santa:](https://jwkdevelop.tistory.com/50)  |    |   |  [:whale:](https://shingy.tistory.com/24)   |    | [:penguin:](https://hkhan.tistory.com/39) |    |
-|0x09|[BFS](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x09.md)|   |[:hamster:](https://gimyedev.tistory.com/19)| [:santa:](https://jwkdevelop.tistory.com/51)   |    | [:alien:](https://marble-trillium-cbf.notion.site/0x09-BFS-eb7ae905ef174ca89b0e44bb7bcef13b)   |  [:whale:](https://shingy.tistory.com/26)  |    | [:penguin:](https://hkhan.tistory.com/40) |    |
-|0x0A|DFS|   |   | [:santa:](https://jwkdevelop.tistory.com/52) |    | [:alien:](https://marble-trillium-cbf.notion.site/0x0A-DFS-a900506a23d541aaaae577630be7d73b) | [:whale:](https://shingy.tistory.com/27)  |    | [:penguin:](https://hkhan.tistory.com/41) |    |
-|0x0B|[재귀](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0B.md)|   |   |   |    |    |    |    |    |    |
-|0x0C|[백트래킹](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0C.md)|   |   |   |    |    |    |    | [:penguin:](https://hkhan.tistory.com/43) |    |
-|0x0D|[시뮬레이션](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0D.md)|   |   |   |    |    |    |    |    |    |
-|0x0E|[정렬 I](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0E.md)|   |   |   |    |    |    |    |    |    |
-|0x0F|[정렬 II](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0F.md)|   |   |   |    |    |    |    |    |    |
-|0x10|[다이나믹<br>프로그래밍](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x10.md)|   |   |   |    |    |    |    |    |    |
-|0x11|[그리디](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x11.md)|   |   |   [:santa:](https://jwkdevelop.tistory.com/54) |    |    |[:whale:](https://shingy.tistory.com/29)   |    |    |   |
-|0x12|[수학](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x12.md)|   |   |    |    |    |    |    |    |   |
-|0x13|[이분탐색](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x13.md)|   |   |   [:santa:](https://jwkdevelop.tistory.com/57)  |    |    |    |    |    |   |
-|0x14|[투 포인터](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x14.md)|   |   | ## 바킹독 C++ 알고리즘 강의 스터디
 
 ### ✏️ 스터디 방식
  #### 1. 각자 내용 정리
