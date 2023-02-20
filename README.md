@@ -35,7 +35,7 @@
 |0x19|[트리](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x19.md)|   |   |    |    |    |    |    |    |   |
 |0x1A|[위상 정렬](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1A.md)|   |   |    |    |    |    |    |    |   |
 |0x1B|[최소 신장 트리](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1B.md)|   |   |    |    |    |    |    |    |   |
-|0x1C|[플로이드 <br>알고리즘](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1C.md)|   |   |    |    |    |    |    |    |   |
+|0x1C|[플로이드 <br>알고리즘](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1C.md)|   |   |  [:santa:](https://jwkdevelop.tistory.com/58)   |    |    |    |    |    |   |
 |0x1D|[다익스트라 <br>알고리즘](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1D.md)|   |   |    |    |    |    |    |    |   |
 |0x1E|[KMP](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1E.md)|   |   |    |    |    |    |    |    |   |
 |0x1F|[트라이](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1F.md)|   |   |    |    |    |    |    |    |   |
